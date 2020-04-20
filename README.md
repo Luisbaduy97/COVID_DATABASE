@@ -22,8 +22,8 @@ In this repository you will find different jupyter notebooks codes:
    * Total cases from December 31, 2019 until April 19, 2020
    * Total deaths from December 31, 2019 until April 19, 2020
 4. Unión_datos.ipynb: allow to create a dataset with information about temperature previously acquired Ambientales.ipynb and with the following features:
-   * GDP per capita from 2018
-   * CHE per capita from 2017
+   * GDP (Gross domestic product) per capita from 2018
+   * CHE (Current health expenditure) per capita from 2017
    
    This datasets were downloaded from https://apps.who.int/gho/data/node.home
 5. Final.ipynb allows to create a new dataset with all the features previously acquired from all the different notebooks
