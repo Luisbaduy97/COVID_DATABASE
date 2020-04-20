@@ -5,6 +5,7 @@ This repository shows how to develop a database with information on COVID-19 and
 </p>
 <br>
 In this repository you will find different jupyter notebooks codes:
+<br>
 1. Ambientales.ipynb allows to acquire the temperature of countries with covid, such as:
   * Temperature
   * Feels like temperature
