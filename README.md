@@ -24,6 +24,7 @@ In this repository you will find different jupyter notebooks codes:
 4. Unión_datos.ipynb: allow to create a dataset with information about temperature previously acquired Ambientales.ipynb and with the following features:
    * GDP per capita from 2018
    * CHE per capita from 2017
+   
    This datasets were downloaded from https://apps.who.int/gho/data/node.home
 5. Final.ipynb allows to create a new dataset with all the features previously acquired from all the different notebooks
 Datasets with all the information with tab separator is COVID_DATASET.csv and COVID_DATASET_COMMAS.csv with comma separator 
